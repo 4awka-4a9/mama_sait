@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 200px;
+  height: 600px;
   width: 100%;
 }
 #fh5co-header .overlay,
@@ -1337,7 +1337,9 @@ input[type="text"] {
 }
 
 #fh5co-features .feature-copy {
-  border: 1px solid white;
+  color: black !important;
+  background-color: #F7F4ED;
+  border: 1px solid #F7F4ED;
   border-radius: 10px;
   margin: 5px;
   height: 100%;
@@ -1378,4 +1380,8 @@ input[type="text"] {
 object-fit: cover;
 width: 100px;
 height: 80px;
+}
+
+#fh5co-features .feature-copy p, #fh5co-features .feature-copy h4, #fh5co-features .feature-copy h3 {
+  color: black;
 }
