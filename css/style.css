@@ -1403,3 +1403,7 @@ padding-top: 10px;
 padding-bottom: 10px;
 background-color: #ff6a00;
 }
+
+#fh5co-about .fh5co-social-icons li a:hover {
+   background: #c35300;
+}
