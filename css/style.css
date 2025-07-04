@@ -432,7 +432,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #fdf8ed;
+  background: #c35300;
 }
 
 .fh5co-heading {
@@ -1402,8 +1402,4 @@ text-align: center;
 padding-top: 10px;
 padding-bottom: 10px;
 background-color: #ff6a00;
-}
-
-#fh5co-about .fh5co-social-icons li a:hover {
-   background: #c35300;
 }
