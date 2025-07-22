@@ -337,7 +337,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #ff6c00;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
-  color: #F7F4ED !important;
+  color: black !important;
 }
 
 .info {
@@ -445,12 +445,12 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   margin-bottom: 20px;
   line-height: 1.5;
-  color: #000;
+  color: black;
 }
 .fh5co-heading p {
   font-size: 18px;
   line-height: 1.5;
-  color: #828282;
+  color: black;
 }
 .fh5co-heading span {
   display: block;
@@ -825,7 +825,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px !important;
 }
 #fh5co-started .fh5co-heading p {
-  color: rgba(255, 255, 255, 0.8);
+  color: black;
 }
 #fh5co-started .btn {
   height: 54px;
@@ -1403,3 +1403,12 @@ padding-top: 10px;
 padding-bottom: 10px;
 background-color: #ff6a00;
 }
+
+.white-background {
+  border-color: white;
+  border-radius: 10px;
+  border-style: solid; 
+  background-color: white;
+}
+
+
